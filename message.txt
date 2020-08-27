@@ -1,0 +1,5 @@
+(D) 2020-08-21 Website for Srinovation Club using Django and hosted at Heroku with custom domain name
+
+Alternatives: static sites download, jekyll, google sites, wordpress themes to get shit done in 1-2 days
+
+Get final project delivery date
